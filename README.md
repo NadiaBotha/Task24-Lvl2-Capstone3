@@ -82,13 +82,13 @@ If not done yet, install an IDE capable of running java. Two popular IDE's are I
 After successfully installing an IDE, download and save all the .java files in the GitHub repository to the IDE workspace. Make sure that all the files are in the same folder.
 
 Copy all java files in the same folder and run Poised.java in Eclipse. A projects.txt and person.txt file will automatically be generated after running the Poised.java file. 
-Java files include:
-Poised.java
-Person.java
-Project.java
-PersonMethods.java
-ProjectMethods.java
-UserInterfaceMethods.java
-readAndWriteFiles.java
+- Java files include:
+- Poised.java
+- Person.java
+- Project.java
+- PersonMethods.java
+- ProjectMethods.java
+- UserInterfaceMethods.java
+- readAndWriteFiles.java
 
 Samples of the text files are also provided in the repository.
